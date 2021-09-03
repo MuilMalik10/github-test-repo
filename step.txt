@@ -2,5 +2,7 @@ step by step
 - right now
 - yes NOW
 - first step
+  # added seasoining
 - second step
+  # added sauce
 - third step
