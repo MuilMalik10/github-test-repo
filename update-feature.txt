@@ -1,3 +1,4 @@
 ADDED FEATURE
 - add new button
 - add caching for website
+- change color
