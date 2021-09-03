@@ -2,7 +2,8 @@ step by step
 - right now
 - yes NOW
 - first step
-  # added seasoining
+
+  # remove seasoning
+  # add sauce
 - second step
-  # added sauce
-- third step
+  # perfection
